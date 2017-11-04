@@ -1,2 +1,2 @@
 # ImageTurner
-Program that takes an image in. Then it turns the image 32 times, so that you have 32 images that can be used as an animated turn
+Program that takes an image in. Then it produces 32 images of that image combined with the same image turned 90 degrees. Allowing smooth turns to be created programmatically.
